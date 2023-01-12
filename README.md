@@ -1,4 +1,4 @@
-# Hi <image src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/> My name is Raghav Mrituanjaya
+# Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/> My name is Raghav Mrituanjaya
 
 🌍 I'm based in India<br>✉️ You can contact me at raghav@gogamic.com<br>🚀 I'm currently working on Thegogamicblog<br>🧠 I'm learning about cybersecurity<br>🤝 I'm open to collaborating on open-source projects
 
@@ -16,7 +16,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=raghavmri&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/raghavmri) 
+
+ ## 💰 You can help me by Donating
+ [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/raghavmri) 
 
   
