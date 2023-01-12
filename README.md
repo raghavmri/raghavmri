@@ -18,6 +18,7 @@
 
 
  ## 💰 You can help me by Donating
- [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/raghavmri) 
+ ![BuyMeACoffee](https://res.cloudinary.com/gogamictechnologies/image/fetch/f_webp/c_scale,h_40,w_145/https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png?_a=ATRSRAA0)
+ 
 
   
